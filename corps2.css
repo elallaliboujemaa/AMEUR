@@ -1,0 +1,38 @@
+body{
+    padding-top: 10px;
+   
+}
+[class*="col-"],
+footer{
+    
+    border-radius: 6px;
+    line-height: 40px;
+    text-align: center;
+    padding: 20px;
+    background-color: lightgoldenrodyellow;
+}
+table tr{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ td{
+    font-size: medium;
+    background-color: lightcyan;}
+img{
+width: 100%;
+padding: 0;
+}
+#cor{
+    background-image: url(covid10.jpeg);
+}
+tr th {
+    background-color:#d2d2ff;
+}
+p{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.h1{
+    text-align: center;
+    padding-right: 200px;
+}
